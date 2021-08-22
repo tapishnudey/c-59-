@@ -1,0 +1,29 @@
+#what_I_love{
+    text-align: center;
+    font-style: oblique;
+}
+#why_I_love_it{
+    font-size: 24px;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+    color: black;
+}
+body{
+        background-color: cornflowerblue;
+    text-align: center;
+}
+.menu{
+    list-style: none;
+    font-family: 'Andada Pro', serif;
+    float:right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+p{
+    font-size: 20px;
+}
+h1 {
+    font-size: 30px;
+}
